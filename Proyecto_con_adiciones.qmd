@@ -13,7 +13,9 @@ format:
     toc: true
 ---
 
-Grupo 1
+Grupo 1 · EAFIT
+
+[Repositorio del proyecto en GitHub](https://github.com/mati020406-sys/Proyecto-grupo-1-)
 
 ## Pregunta original y delimitación
 
@@ -111,11 +113,11 @@ También hay una razón metodológica para mantener prudencia frente a la pregun
 
 ## Alcance y próximos pasos
 
-El alcance de esta versión es descriptivo y documental. No se incluye el cuadro anual de toneladas, de acuerdo con la delimitación acordada, y tampoco se afirma que ya esté reconstruida una serie homogénea de inversión pública para todos los años entre 2016 y 2024. En consecuencia, las figuras incluidas ilustran información disponible para 2021, pero no deben leerse como evidencia de una tendencia a lo largo de nueve años. Para avanzar hacia una comparación completa será necesario consolidar los datos de carga movilizada por carretera y ferrocarril, junto con la inversión anual por modalidad, conservando las URL, fechas de consulta, unidades y definiciones originales. También se debe diferenciar la apropiación del compromiso, la obligación y el pago, así como expresar las series monetarias en pesos constantes de un mismo año cuando se comparen variaciones en el tiempo.
+El alcance del estudio es descriptivo y documental. La tabla anual y la Figura 3 muestran una serie provisional de carga por carretera y ferrocarril entre 2016 y 2024. Las Figuras 1 y 2 ilustran el presupuesto de 2021. Para comparar la inversión a lo largo del periodo se requiere una serie homogénea que conserve las fuentes, fechas de consulta, unidades y definiciones. También es necesario distinguir apropiaciones, compromisos, obligaciones y pagos, y expresar los montos en pesos constantes de un mismo año.
 
-### Precisión sobre el alcance de las figuras
+### Unidades de la Figura 1
 
-La tabla anual y la Figura 3 sí presentan carga por carretera y ferrocarril para 2016–2024. La limitación a 2021 corresponde a las Figuras 1 y 2 y a la comparación presupuestal disponible. Por ello, la afirmación anterior sobre figuras de un solo año debe leerse referida a la inversión. En la Figura 1, el eje expresa miles de millones de COP: los valores de 8.527.211 y 210.265 millones equivalen a 8.527,211 y 210,265 miles de millones, respectivamente. Esta aclaración distingue la escala del eje de la unidad de los valores citados en el texto.
+En la Figura 1, el eje expresa miles de millones de COP. Los valores de 8.527.211 y 210.265 millones equivalen a 8.527,211 y 210,265 miles de millones, respectivamente.
 
 Consideramos que mejorar la información pública es parte del problema económico y no un detalle técnico que esté en segundo plano. Si no es posible identificar cuánto se asigna, compromete y ejecuta en cada modo, se dificulta evaluar prioridades y discutir sus resultados con transparencia. Una base abierta por año, modo, proyecto, entidad y etapa presupuestal permitiría analizar con mayor rigor qué inversiones se realizan y cómo se relacionan con las necesidades de carga. Con esa información, el paso posterior sería estudiar corredores concretos y estimar costos logísticos puerta a puerta, en lugar de extrapolar conclusiones nacionales a realidades territoriales distintas.
 
@@ -141,13 +143,13 @@ En conclusión, la evidencia aquí revisada apunta a una fuerte orientación car
 
 ## Declaración de IA
 
-Inicialmente, a la IA se le pidió un suministro de datos, que, naturalmente, fueron verificados por nosotros mismos. Los datos se le pidieron acorde a la nueva pregunta de investigación que fue propuesta por los profesores. Se adjuntó el texto original, antes de corregir, con el fin de que la IA siguiera alimentando su contexto acerca de: el entregable, los datos y la idea central. Y, que también nos brindara una estructura organizada para desarrollar nuestra nueva idea en torno a la nueva pregunta.
+Al comienzo usamos IA para explorar datos y organizar el trabajo a partir de la pregunta de investigación revisada. Compartimos el texto inicial para darle contexto y contrastamos la información sugerida con las fuentes disponibles. Las discrepancias y las cifras que siguen pendientes de validación se señalan en las notas de verificación.
 
-Con los datos anteriores, estuvo en nuestras manos redactar el texto, trabajo que realizamos con nuestros conocimientos y posterior a la finalización del texto fue adjuntado a la IA con el fin de corregir errores gramaticales. Fue el único pedido que se hizo en torno a eso, éramos conscientes de que nuestra escritura no era del todo perfecta y había errores en signos de puntuación, que, podían llevar a generar diferentes dudas sobre el lector, al perderse en la lectura.
+Redactamos el informe y usamos IA para revisar la gramática y la puntuación del borrador.
 
-Las gráficas que se presentan en el trabajo inicialmente eran hechas con power BI, la intención era hacerlo de manera orgánica y poniendo en marcha distintos conocimientos que hemos adquirido al progresar el curso. Sin embargo, tuvimos problemas con la plataforma y no pudimos realizar nuestro plan. Por eso, decidimos recurrir a la IA como herramienta de graficación. Cómo se mencionan en las gráficas, los datos que se presentan son datos recolectados y organizados por nosotros, a la IA únicamente se le pidió realizar la gráfica tal y como la imaginábamos, fue un trabajo duro, muchas instrucciones fallidas antes de concretar un resultado óptimo. A pesar de que esta vez lo hicimos con la IA, la intención sigue siendo la misma a futuro: hacer las gráficas nosotros mismos. Y hay una razón para eso, vimos que la plataforma power BI tiene un gran alcance y, nos favorece en cuanto a gráficas y algo muy importante para nosotros: mapas, en nuestro trabajo evidenciamos muchas zonas de Colombia, muchos departamentos, muchas vías, sin embargo, no hay un apoyo visual y queremos complementarlo con mapas que realicemos a nuestro gusto y necesidad en power BI.
+Intentamos elaborar las gráficas en Power BI, pero encontramos dificultades con la plataforma. Para esta entrega usamos IA para graficar los datos que habíamos recopilado y organizado. Ajustamos varias veces las instrucciones hasta obtener las visualizaciones. Nos interesa retomar Power BI para incorporar mapas de las zonas y vías que mencionamos en el estudio.
 
-Por último, ya con la estructura del trabajo, con el texto realizado y con todo listo, decidimos devolver el archivo a la IA, esto para que pudiera revisar nuestro trabajo con la rúbrica que se usó en la primera revisión de texto de la materia. Con esto pudimos notar debilidades, huecos, incongruencias, incoherencias, entre otras cosas que era necesario revisar. Con todo este apoyo de la herramienta pudimos consolidar nuestro trabajo, con mejoras evidentes a comparación de anteriores entregar.
+También usamos IA para revisar el informe con la rúbrica de la primera entrega e identificar apartados que necesitaban aclaraciones o información adicional.
 
 ## Registro de esta revisión con IA del 29 de octubre de 2026
 
@@ -157,7 +159,7 @@ En esta revisión se contrastaron los adjuntos, se comprobó la transcripción d
 
 ## Precisión sobre ChatGPT y el historial de uso
 
-El grupo confirmó el uso habitual de ChatGPT, sin versión ni fechas exactas registradas. No se inventan esos datos ni los prompts históricos. La revisión actual con Codex queda documentada arriba; la lectura final por un integrante todavía debe acreditarse con el nombre y la fecha reales.
+El equipo usó ChatGPT durante el proyecto. La versión, las fechas exactas y las instrucciones de las primeras consultas no quedaron registradas. La revisión con Codex del 29 de octubre se detalla arriba. Queda pendiente registrar quién hizo la lectura final y en qué fecha.
 
 ## Distribución de tareas
 
