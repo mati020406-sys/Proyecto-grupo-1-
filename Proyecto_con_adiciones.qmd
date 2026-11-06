@@ -3,7 +3,7 @@ title: "Infraestructura vial y ferroviaria en Colombia: distribución de la carg
 author:
   - "Sebastián Quintana"
   - "Samuel Moreno"
-  - "Matías Manno"
+  - "Matías Marino"
 lang: es
 format:
   html:
